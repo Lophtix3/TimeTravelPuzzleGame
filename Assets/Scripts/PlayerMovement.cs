@@ -27,6 +27,5 @@ public class PlayerMovement : MonoBehaviour {
         if (i < 10) {
             i++;
         }
-        print(i);
     }
 }
